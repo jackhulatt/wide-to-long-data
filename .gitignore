@@ -1,3 +1,13 @@
 stock price.xlsx
 taiwan_stocks_long_format.csv
 .venv
+announcement_dates_fixed.csv
+announcemnet date_announcement_long_format.csv
+announcemnet date.xlsx
+book value_book_value_long_format.csv
+book value.xlsx
+book_values_fixed.csv
+mkt cap_market_cap_long_format.csv
+mkt cap.xlsx
+tv_volume_long_format.csv
+tv.xlsx

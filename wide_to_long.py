@@ -106,7 +106,7 @@ def quick_analysis(csv_file="taiwan_stocks_long_format.csv"):
 
 if __name__ == "__main__":
     # Main conversion
-    file_path = "stock price.xlsx"  # Update this path if needed
+    file_path = "mkt cap.xlsx"  # Update this path if needed
     
     try:
         # Convert to CSV
